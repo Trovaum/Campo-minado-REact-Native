@@ -36,7 +36,7 @@ export default props => {
     )
 }
 
-const styles = StyleSheet.create=({
+const styles = StyleSheet.create({
     frame: {
         flex: 1,
         alignItems: 'center',
